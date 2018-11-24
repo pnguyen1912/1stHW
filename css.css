@@ -1,0 +1,18 @@
+p{
+    color: blue;
+}
+.red{
+    color: red;
+    background-color: black;
+}
+.yellow{
+    color: yellow;
+    background-color: black;
+    transition: 2s;
+}
+.yellow:hover{
+    background-color: gray;
+}
+.nouse{
+    color:white;
+}
